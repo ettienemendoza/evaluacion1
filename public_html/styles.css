@@ -1,0 +1,79 @@
+header    {
+    font-family:Comic Sans MS;
+    justify-content: center;  
+    display: flex;
+    background-color: #A9DFBF; 
+}
+.inicio{
+    color: red; 
+    
+}
+
+footer{  
+    font-family:Comic Sans MS;
+    justify-content: center;  
+    display: flex;
+    background-color: #A9DFBF;  
+    bottom: 0;
+    width: 100%;
+}
+#derechos{
+    color: white; 
+}
+.ettiene {
+    display: flex;
+    justify-content: center; 
+}
+.fotoettiene{
+    align-content: center; 
+    width: 100px;
+    height: 90px;
+       display: flex;
+    justify-content: center; 
+}
+#nombre {
+    display: flex;
+    justify-content: center;
+    font-family: Times New Roman;  
+    color: #CB4335 ;
+ 
+}
+.datos{
+    display: flex;
+    text-align: center;
+    font-family:Comic Sans MS;
+     
+}
+.habilidadeintereses{
+    
+    display: flex;
+    justify-content: center;
+    color: #CB4335;
+    font-family:Times New Roman;
+}
+.habilidadeinteresesclass{
+    
+    
+    text-align: center;
+    color: #2E4053;
+    font-family: Comic Sans MS;
+}
+.contacto{
+    font-family:Times New Roman; 
+    display: flex;
+    justify-content: center;
+    color: #CB4335 ;
+}
+
+.linkclass{
+    
+    font-family: Comic Sans MS;  
+    display: flex;
+    align-content: center;  
+    justify-content: center; 
+}
+.link:hover{
+   color: #2471A3;
+   display: flex;
+   align-content: center;
+}
